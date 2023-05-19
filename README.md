@@ -33,32 +33,6 @@
             <strong>윤진</strong>
         </td>
     </tr>
-    <tr height="50px">
-        <td align="center">
-            <a href="https://github.com/lectura7942">:octocat: GitHub</a>
-            <br />
-            <a href="./jieun">:memo: 푼 문제들</a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/JLake310">:octocat: GitHub</a>
-            <br />
-            <a href="./jaeyeon">:memo: 푼 문제들</a>
-        <td align="center">
-            <a href="https://github.com/hoooolllly">:octocat: GitHub</a>
-            <br />
-            <a href="./youngjun">:memo: 푼 문제들</a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/Da-Hye-JUNG">:octocat: GitHub</a>
-            <br />
-            <a href="./dahye">:memo: 푼 문제들</a>
-        </td>
-            <td align="center">
-            <a href="https://github.com/yunjinchoidev">:octocat: GitHub</a>
-            <br />
-            <a href="./yunjin">:memo: 푼 문제들</a>
-        </td>
-    </tr>
 </table>
 </div>
 </br>
