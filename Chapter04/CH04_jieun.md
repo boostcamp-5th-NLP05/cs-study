@@ -4,7 +4,8 @@
 
 ### ALU - 계산
 
-TODO [사진]
+![image](https://github.com/boostcamp-5th-NLP05/cs-study/assets/81620001/205b1516-d83e-427b-b524-17fe4d2ade95)
+[사진 출처: 혼자 공부하는 컴퓨터 구조 + 운영체제, 강민철, 한빛미디어]
 
 제어 신호는 어떤 연산을 수행해야 하는지 알려준다.
 
@@ -33,7 +34,8 @@ TODO [사진]
 
 ### 제어장치 - 제어 신호 생성 및 명령어 해석
 
-TODO [사진]
+![image](https://github.com/boostcamp-5th-NLP05/cs-study/assets/81620001/1f3fa0b4-6364-4409-aa84-25ced1f5c57f)
+[사진 출처: 혼자 공부하는 컴퓨터 구조 + 운영체제, 강민철, 한빛미디어]
 
 #### 받아들이는 정보
 
