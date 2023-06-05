@@ -1,4 +1,4 @@
-# Chapter 04 CPU의 작동 원리 (미완성)
+# Chapter 04 CPU의 작동 원리
 
 ## 04-1 ALU와 제어장치
 
