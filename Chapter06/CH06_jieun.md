@@ -47,14 +47,17 @@
   1. CPU와 가까운 저장 장치는 빠르고, 멀리 있는 저장 장치는 느리다.
   2. 속도가 빠른 저장 장치는 저장 용량이 작고, 가격이 비싸다
 
-[사진]
+<img alt="memory hierarchy" width=600 src="https://github.com/boostcamp-5th-NLP05/cs-study/assets/81620001/f7cf694a-ef16-4ddd-8d4a-7e42fecd5ba2"> \
+사진 출처: 강민철, <혼자 공부하는 컴퓨터 구조 + 운영체제>, 한빛미디어(2022)
 
 ### 캐시 메모리
+
+<img alt="cache memory" width=600 src="https://github.com/boostcamp-5th-NLP05/cs-study/assets/81620001/c8a732f2-5bcc-48a6-82cb-59ba248a06b0"> \
+사진 출처: 강민철, <혼자 공부하는 컴퓨터 구조 + 운영체제>, 한빛미디어(2022)
 
 - 레지스터보다 용량이 크고 메모리보다 빠른 SRAM 기반 저장 장치
 - CPU의 연산 속도와 메모리 접근 속도의 차이를 줄이기 위해 탄생
 - L1 캐시, L2 캐시, L3 캐시
-  [멀티코어 사진]
   - 분리형 캐시: L1 -> L1I(명령어만 저장), L1D(데이터만 저장)
 - CPU가 사용할 법한 대상을 예측하여 저장
   - **캐시 히트**: 캐시 메모리 내 데이터가 CPU에서 활용될 경우
