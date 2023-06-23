@@ -43,3 +43,7 @@ eg) 오류 메시지 - 메모리 누수 현상, 잘못된 주소 참조
 > **가상 머신과 이중 모드**
 > - 가상 머신: 소프트웨어적으로 만들어낸 가상 컴퓨터.
 > - 하이퍼바이저 모드: 가상 머신 위 운영체제로부터 운영체제 서비스를 받을 수 있는도록 함
+> <img width=700 src=https://github.com/boostcamp-5th-NLP05/cs-study/assets/81620001/830734d0-dcf5-4b0c-9d32-d3fc71075561> \
+> 사진 출처: https://www.techtarget.com/searchitoperations/definition/virtual-machine-VM
+
+
